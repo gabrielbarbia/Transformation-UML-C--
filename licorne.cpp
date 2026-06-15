@@ -13,5 +13,5 @@ licorne::~licorne()
 
 void licorne::manger(void)
 {
-    cout<<"je Mange" << endl;
+    cout<<"je Mange" << endl << endl;
 }
