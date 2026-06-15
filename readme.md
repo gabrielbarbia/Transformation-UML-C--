@@ -2,13 +2,13 @@
 
 Projet d'exercice BTS CIEL : transformation du diagramme de classe UML "Licorne" en code C++.
 
-## Contenu
+## Contenu 📄
 
 - `Diagramme_LICORNE.pdf` : diagramme de classe UML
 - `licorne.h` : déclaration de la classe Licorne
 - `licorne.cpp` : implémentation de la classe Licorne
 - `main.cpp` : programme principal
 
-## Compilation
+## Compilation 💻
 
 - Compilation fait via VSCODE et commit direct avec le lien de `GITHUB` et de `VSCODE`
