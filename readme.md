@@ -10,3 +10,5 @@ Projet d'exercice BTS CIEL : transformation du diagramme de classe UML "Licorne"
 - `main.cpp` : programme principal
 
 ## Compilation
+
+- Compilation fait via VSCODE et commit direct avec le lien de `GITHUB` et de `VSCODE`
